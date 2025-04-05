@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sereena-thomas-6b1925294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sereena-thomas-6b1925294/" height="30" width="40" /></a>
 <a href="https://instagram.com/sereenathomas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sereenathomas06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sereenavlogs06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sereenavlogs06" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/SereenaVlogs06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SereenaVlogs06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/crce_10278_ceb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crce_10278_ceb" height="30" width="40" /></a>
 </p>
 
