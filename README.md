@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sereena Thomas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sereenat7&label=Profile%20views&color=0e75b6&style=flat" alt="sereenat7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sereenat7" alt="sereenat7" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Spring boot**
 
-- 🤝 I’m looking for help with **AIML,Gen AI**
+- 🤝 I’m looking for help with **Java Backend**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **crce.10278.ceb@gmail.com**
 
