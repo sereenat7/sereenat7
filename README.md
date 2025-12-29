@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sereena Thomas</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer and AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sereenat7&label=Profile%20views&color=0e75b6&style=flat" alt="sereenat7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sereenat7" alt="sereenat7" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Currently learning and working with **Java**
 
-- 👯 I’m looking to collaborate on **Spring boot**
+- 👯 Open to collaborating on **Full-Stack (MERN/React + FastAPI) and AI/ML projects**
 
-- 🤝 I’m looking for help with **Java Backend**
+- 🤝 Looking for guidance in **Java Backend development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, FastAPI, NLP, RAG pipelines, or React**
 
-- 📫 How to reach me **crce.10278.ceb@gmail.com**
+- 📫 Reach me at **crce.10278.ceb@gmail.com**
 
 - ⚡ Fun fact **I'm a content creator**
 
