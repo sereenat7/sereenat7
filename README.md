@@ -1,35 +1,221 @@
-<h1 align="center">Hi 👋, I'm Sereena Thomas</h1>
-<h3 align="center">A passionate backend developer and AI/ML enthusiast from India</h3>
+<!-- ✦ HEADER BANNER ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Hey%20👋%20I'm%20Sereena%20Thomas&fontSize=30&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20•%20AI/ML%20Enthusiast%20•%20Open%20to%20Collaborations&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sereenat7&label=Profile%20views&color=0e75b6&style=flat" alt="sereenat7" /> </p>
+<!-- ✦ SOCIAL LINKS & PROFILE VIEWS ✦ -->
+<div align="center">
+  <a href="https://linkedin.com/in/sereena-thomas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:sereenathomas26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/sereenat7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sereenat7&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&labelColor=0d1117" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sereenat7" alt="sereenat7" /></a> </p>
+<!-- ✦ TYPING SVG ✦ -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Building+scalable+web+apps+with+React+%26+FastAPI;AI/ML+Enthusiast+%7C+Open+to+Collaborations;Computer+Engineering+%40+FR.+CRCE;SIH+2025+Grand+Finalist;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 Currently learning and working with **Java**
+<br/>
 
-- 👯 Open to collaborating on **Full-Stack (MERN/React + FastAPI) and AI/ML projects**
+<!-- ✦ ABOUT ME ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+  
+  ## 🧑‍💻 About Me
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
 
-- 🤝 Looking for guidance in **Java Backend development**
+<br/>
 
-- 💬 Ask me about **Java, FastAPI, NLP, RAG pipelines, or React**
+<div align="center">
+<table>
+<tr>
+<td>
 
-- 📫 Reach me at **crce.10278.ceb@gmail.com**
+```yaml
+Name: Sereena Thomas
+Location: Mumbai, Maharashtra, India
+Education: B.E. Computer Engineering @ FR. CRCE '27 (CGPA: 9.39)
+Role: Full-Stack Web Developer | AI/ML Enthusiast
 
-- ⚡ Fun fact **I'm a content creator**
+Currently Working On: SaaS & Full-Stack Applications
+Learning: AI/ML, NLP & Cloud Architecture
+Looking to Collaborate On: AI/ML Projects
+Ask Me About: React, FastAPI, PostgreSQL, REST APIs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sereena-thomas-6b1925294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sereena-thomas-6b1925294/" height="30" width="40" /></a>
-<a href="https://instagram.com/sereenathomas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sereenathomas06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SereenaVlogs06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SereenaVlogs06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/crce_10278_ceb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crce_10278_ceb" height="30" width="40" /></a>
+Achievement: 🏆 Smart India Hackathon 2025 – Grand Finalist
+             (Government of India, Ministry of Tribal Affairs)
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ✦ TECH STACK ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+  
+  ## 🛠️ Tech Stack & Tools
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<h4>⚡ Languages</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,js&perline=10&theme=dark" alt="Languages" /></a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- FRONTEND -->
+<h4>🎨 Frontend</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=10&theme=dark" alt="Frontend" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sereenat7&show_icons=true&locale=en&layout=compact" alt="sereenat7" /></p>
+<!-- BACKEND -->
+<h4>⚙️ Backend & APIs</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,fastapi&perline=10&theme=dark" alt="Backend" /></a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sereenat7&show_icons=true&locale=en" alt="sereenat7" /></p>
+<!-- DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10&theme=dark" alt="Databases" /></a>
+</p>
 
+<!-- CLOUD & DEVOPS -->
+<h4>☁️ Cloud & DevOps</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify,vercel&perline=10&theme=dark" alt="Cloud & DevOps" /></a>
+</p>
 
+<!-- DATA & AI -->
+<h4>🧠 Data & AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Text%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Text Processing" />
+  <img src="https://img.shields.io/badge/Image%20Processing-11557C?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ✦ FEATURED PROJECTS ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+  
+  ## 🚀 Featured Projects
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Pravaha – AI Sales Automation](https://pravaha-ieee.vercel.app)
+SaaS platform for end-to-end sales workflow automation with AI-driven recommendation logic.
+
+`React` `JavaScript` `SaaS Architecture`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [DISHA – Disaster Intelligence System](https://dishauser.netlify.app)
+Full-stack geospatial app with real-time evacuation routing using PostGIS & OpenStreetMap.
+
+`React` `PostgreSQL` `PostGIS` `OpenStreetMap`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Civic Monitoring Platform
+Backend service managing large-scale civic issue records with optimized REST APIs.
+
+`FastAPI` `PostgreSQL` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Smart India Hackathon 2025
+Grand Finalist — Government of India, Ministry of Tribal Affairs.
+
+`National Level` `Problem Solving` `Team Lead`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ✦ CONTRIBUTION SNAKE ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+  
+  ## 🐍 Contribution Snake
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sereenat7/sereenat7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sereenat7/sereenat7/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sereenat7/sereenat7/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ✦ GITHUB STATS ✦ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+  
+  ## 📊 GitHub Stats
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sereenat7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereenat7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950" width="49%" />
+</div>
+
+<br/>
+
+<!-- ✦ FOOTER ✦ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
