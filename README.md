@@ -200,22 +200,7 @@ Grand Finalist — Government of India, Ministry of Tribal Affairs.
 <br/>
 
 <!-- ✦ GITHUB STATS ✦ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-  
-  ## 📊 GitHub Stats
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sereenat7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereenat7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950" width="49%" />
-</div>
-
-<br/>
 
 <!-- ✦ FOOTER ✦ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
