@@ -15,8 +15,6 @@
 
 **Full-Stack Web Developer** · **AI/ML Enthusiast** · B.E. Computer Engineering @ FR. CRCE
 
-🏆 Smart India Hackathon 2025 Grand Finalist · Google Student Ambassador 2026
-
 ---
 
 ## About Me🧑‍💻
@@ -93,11 +91,5 @@ I'm a **Full-Stack Web Developer** and **AI/ML enthusiast** from Mumbai, buildin
 
 ---
 
-## 📈 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereenat7&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most used languages" />
-
-</div>
 
