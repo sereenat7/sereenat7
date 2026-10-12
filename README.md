@@ -2,11 +2,6 @@
 
 <h3><strong><em>"First, solve the problem. Then, write the code."</em></strong></h3>
 <p><strong>— John Johnson</strong></p>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sereenat7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
