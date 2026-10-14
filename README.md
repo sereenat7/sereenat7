@@ -14,8 +14,7 @@
 
 ## About Me🧑‍💻
 
-I'm a **Full-Stack Web Developer** and **AI/ML enthusiast** from Mumbai, building scalable web applications with **React**, **FastAPI**, and **PostgreSQL**. Currently interning at **Specter Technology and Games** and serving as **Training & Placement Coordinator** at FR. CRCE.
-
+I'm a **Full-Stack Web Developer** and **AI/ML enthusiast** from Mumbai, building scalable web applications with **React**, **FastAPI**, and **PostgreSQL**. 
 - 🛠️ **Currently working on —** Backend services with Node.js & Express, SaaS platforms, and geospatial systems
 - 📖 **Currently learning —** AI/ML, NLP, cloud architecture & system design
 - 🔗 **Open to collaboration —** AI/ML projects, hackathons & open-source
